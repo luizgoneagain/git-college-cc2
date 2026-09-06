@@ -20,7 +20,6 @@ Este projeto consiste em um catálogo de filmes desenvolvido utilizando **Markdo
 
 A proposta é apresentar três filmes marcantes da história do cinema, contendo informações como ano de lançamento, direção, gênero e sinopse.
 
-Além de explorar o Markdown, o projeto também foi desenvolvido para praticar conceitos de **Git e GitHub**, incluindo trabalho colaborativo, commits e controle de versões.
 
 ---
 
@@ -149,45 +148,6 @@ O filme se tornou um clássico por sua mensagem sobre liberdade, educação e a 
 | 🥈 O Poderoso Chefão           | 1972 | Francis Ford Coppola | Família e Poder      |
 | 🥉 Sociedade dos Poetas Mortos | 1989 | Peter Weir           | Liberdade e Educação |
 
----
-
-# 🛠️ Tecnologias Utilizadas
-
-Este projeto foi desenvolvido utilizando:
-
-```text
-📄 Markdown (.md)
-🔧 Git
-🐙 GitHub
-```
-
----
-
-# 👥 Integrantes do Projeto
-
-| Nome                 | GitHub  |
-| -------------------- | ------- |
-| Nome do Integrante 1 | @github |
-| Nome do Integrante 2 | @github |
-| Nome do Integrante 3 | @github |
-
----
-
-# 📂 Estrutura do Projeto
-
-```text
-catalogo-filmes/
-│
-├── README.md
-│
-├── filmes/
-│   ├── scarface.md
-│   ├── poderoso-chefao.md
-│   └── sociedade-poetas-mortos.md
-│
-└── imagens/
-    └── posters/
-```
 
 ---
 
