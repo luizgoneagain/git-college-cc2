@@ -310,13 +310,4 @@ Os que qualquer brasileiro reconhece na hora:
 
 ---
 
-## ✍️ Contribuir
-
-```bash
-git checkout -b feat/seu-nome
-# adiciona o meme na era certa, no formato: | Ano | Meme | O que é | Bordão |
-git commit -m "adiciona meme X"
-# abre PR pra main
-```
-
-<sub>Catálogo colaborativo · feito na marra com Markdown e Git · sinta o drama.</sub>
+<sub>Catálogo feito na marra com Markdown e Git · sinta o drama.</sub>
