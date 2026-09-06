@@ -300,16 +300,6 @@ Os que qualquer brasileiro reconhece na hora:
 
 ---
 
-## 🕳️ Falta confirmar
-
-- **"Cincão"** — dizem que é apresentador de **Choque de Cultura**, mas não bate com Rogerinho, Maurílio, Julinho da Van nem Renan. Falta link/áudio.
-- **"Nada a ver, mano"** — bordão/áudio; falta a fonte.
-- **"Aí eu vi vantagem"** — bordão publicitário antigo; confirmar a marca.
-- **"Coé mano, config"** — scrap do Orkut; confirmar o texto.
-- Fada Sensata · Whindersson no auge das paródias · "cadê o amor da minha vida" · Répteis e Anfíbios ("o que que tu tá pá?") · Bonde do Tigrão / "cerol na mão" · Mulher Melão · Nego do Borel / "tá com a corda toda" · Kondzilla
-
----
-
 ## 📎 De onde veio a informação
 
 - [Museu de Memes — UFF](https://museudememes.com.br/) — maior acervo acadêmico de memes brasileiros (prof. Viktor Chagas)
