@@ -296,7 +296,7 @@ Os que qualquer brasileiro reconhece na hora:
 > [!IMPORTANT]
 > Fora da contagem — importados. Ficam listados só pra referência.
 
-`Homem-Aranha Apontando` · `Mulher Gritando com Gato` · `Wandinha Dançando` · `Gato de Bota Implorando` · `Attenzione Pickpocket` · `Barbenheimer` · `Skibidi Toilet` · `Italian Brainrot` (Tralalero Tralala, Bombardiro Crocodilo) · `6 7 / "six seven"` *(é o do `banana.txt` deste repo)* · `Labubu` · `Filtro Ghibli / IA`
+`Homem-Aranha Apontando` · `Mulher Gritando com Gato` · `Wandinha Dançando` · `Gato de Bota Implorando` · `Attenzione Pickpocket` · `Barbenheimer` · `Skibidi Toilet` · `Italian Brainrot` (Tralalero Tralala, Bombardiro Crocodilo) · `6 7 / "six seven"` · `Labubu` · `Filtro Ghibli / IA`
 
 ---
 
