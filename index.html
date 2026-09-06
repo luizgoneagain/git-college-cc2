@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minhas Tarefas</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Ícones -->
+    <link rel="stylesheet" 
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+
+<body>
+
+    <main class="container">
+
+        <header>
+            <h1>
+                <i class="fa-solid fa-clipboard-list"></i>
+                MINHAS TAREFAS
+            </h1>
+        </header>
+
+        <!-- Adicionar tarefa -->
+        <section class="add-task">
+
+            <input 
+                type="text" 
+                id="taskInput"
+                placeholder="Digite uma tarefa..."
+            >
+
+            <button id="addButton">
+                Adicionar
+            </button>
+
+        </section>
+
+
+        <!-- Lista de tarefas -->
+        <ul id="taskList">
+
+            <li class="task">
+                <label>
+                    <input type="checkbox">
+                    <span>Estudar Git</span>
+                </label>
+
+                <button class="delete-btn">
+                    <i class="fa-solid fa-trash"></i>
+                </button>
+            </li>
+
+
+            <li class="task">
+                <label>
+                    <input type="checkbox">
+                    <span>Fazer trabalho</span>
+                </label>
+
+                <button class="delete-btn">
+                    <i class="fa-solid fa-trash"></i>
+                </button>
+            </li>
+
+
+            <li class="task completed">
+                <label>
+                    <input type="checkbox" checked>
+                    <span>Estudar GitHub</span>
+                </label>
+
+                <button class="delete-btn">
+                    <i class="fa-solid fa-trash"></i>
+                </button>
+            </li>
+
+        </ul>
+
+
+        <!-- Filtros -->
+        <section class="filters">
+
+            <button class="filter active" data-filter="all">
+                Todas
+            </button>
+
+            <button class="filter" data-filter="pending">
+                Pendentes
+            </button>
+
+            <button class="filter" data-filter="completed">
+                Concluídas
+            </button>
+
+        </section>
+
+    </main>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
