@@ -1,13 +1,19 @@
-# O que é
+# Catálogos
 
-Uma lista de Catálogos de coisas aleatórias.<br>
-Projeto criado para experimentos git e github.
+Uma lista de catálogos sobre temas variados, um por integrante do grupo.
 
+Projeto criado como exercício prático de Git e GitHub para a disciplina de
+Design Profissional.
 
-# Participantes
+## Participantes
 
-Nomes:<br>
-Luiz Otávio Faleiros<br>
-Kauan da Silva<br>
-Natthan Silvestri<br>
-Daniela Guerrero<br>
+- Luiz Otávio Faleiros (@luizgoneagain)
+- Kauan da Silva (@kauanunifran-sys)
+- Natthan Silvestri (@TVCodelab)
+- Daniela Guerrero (@ianiey0)
+
+## Organização
+
+Cada integrante escreve seu catálogo em um arquivo próprio, no formato
+`catalogoNome.md`. A branch `main` é protegida e só recebe alterações via
+pull request revisado por outro integrante.
