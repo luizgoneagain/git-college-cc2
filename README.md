@@ -15,5 +15,5 @@ Design Profissional.
 ## Organização
 
 Cada integrante escreve seu catálogo em um arquivo próprio, no formato
-`catalogoNome.md`. A branch `main` é protegida e só recebe alterações via
+`.md`. A branch `main` é protegida e só recebe alterações via
 pull request revisado por outro integrante.
